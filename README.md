@@ -18,7 +18,7 @@ Kelas : MI-2D
 
 
 ## Untuk Pak Prima
-Sebelumnya mohon maaf pak, untuk filenya kami upload ulang. file sebelumnya ada pada link git: git@github.com:felaayulestari/psychotest_felaita.git terlanjur saya tekan merge pull(masih 55% progres). Dan saya sudah mencoba untuk mem pull request lagi namun tidak bisa. sehingga filenya kami lengkapi lalu kami publish ke git lagi dengan repositori baru dan sudah selesai progresan. sekali lagi saya mohon maaf atas keteledoran saya. terima kasih
+Sebelumnya mohon maaf pak, untuk filenya kami upload ulang. file sebelumnya ada pada link git: https://github.com/felaayulestari/psychotest_felaita terlanjur saya tekan merge pull(masih 55% progres). Dan saya sudah mencoba untuk mem pull request lagi namun tidak bisa. sehingga filenya kami lengkapi lalu kami publish ke git lagi dengan repositori baru dan sudah selesai progresan. sekali lagi saya mohon maaf atas keteledoran saya. terima kasih
 
 ## Getting Started
 
