@@ -12,8 +12,8 @@ Psikotes merupakan salah satu tes yang berfungsi untuk mengenal watak dari seseo
 ![Run](assets/run.gif)
 
 ## Informasi Mahasiswa
-Nama Anggota 1 : Fela Ayu lestari /1931710007
-Nama Anggota 2 : Ita Merliana / 1931710029
+Nama Anggota 1 : Fela Ayu lestari /1931710007<br>
+Nama Anggota 2 : Ita Merliana / 1931710029<br>
 Kelas : MI-2D
 
 
