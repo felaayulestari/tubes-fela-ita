@@ -2,14 +2,14 @@
 
 A new Flutter project.
 
-# Running Aplikasi
+### Sekilas tentang Aplikasi
 
 Psikotes merupakan salah satu tes yang berfungsi untuk mengenal watak dari seseorang seperti attitude, personality, interest, dan juga inteli jensinya. Psikotes ini menggunakan metode MBTI.  MBTI, atau  Myers-Birggs Type Indicator dalah metode pengukuran yang digunakan untuk membaca kepribadian seseorang, khususnya untuk memahami bagaimana seseorang menilai sesuatu dan membuat keputusan.
 
 
-# Running Aplikasi
+# Run Aplikasi
 
-![Running](img/run.gif)
+![Run](assets/run.gif)
 
 ## Informasi Mahasiswa
 Nama Anggota 1 : Fela Ayu lestari /1931710007
